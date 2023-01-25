@@ -1,5 +1,9 @@
 body {
+    background-image: url(imagens/fundo-2.png);
     font-family: Open Sans, sans-serif;
+    background-repeat:no-repeat;
+    background-position: right top;
+    background-color: rgb(216, 164, 85);
 }
 
 header {
@@ -11,7 +15,10 @@ header {
 h1 {
     text-transform: uppercase;
     margin-bottom: 0;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+
   }
+
   
   section {
     margin: 0 auto;
