@@ -16,8 +16,7 @@ h1 {
     text-transform: uppercase;
     margin-bottom: 0;
     font-family: Brush Script MT, Brush Script Std, cursive;
-
-  }
+ }
 
   
   section {
@@ -25,41 +24,41 @@ h1 {
     display: block;
     max-width: 1024px;
     width: 100%;
-  }
+ }
   
-  .card {
+.card {
     display: inline-block;
     margin: 10px;
     border: 1px solid #000;
     vertical-align: top;
     max-height: 100%;
-  }
+}
   
-  .card img {
+.card img {
     display: block;
     width: 300px;
     height: 300px;
-  }
+}
   
-  .card details {
+.card details {
     width: 300px;
     height: auto;
     display: inline-block;
-  }
+}
   
-  .card details summary {
+.card details summary {
     font-size: 18px;
     padding: 10px;
-  }
+}
   
-  .card details p {
+.card details p {
     padding: 0 10px;
-  }
+}
   
-  .card details blockquote {
+.card details blockquote {
     color: #777;
     font-style: italic;
-  }
+}
   
 @media (max-width: 768px) {
     header {
